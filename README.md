@@ -1,4 +1,4 @@
-![hippo](https://i.imgur.com/bq1SNTk.png)
+![hippo](https://i.imgur.com/yHc7VF2.png)
 
 <h1>About</h1>
 <p align='center'>
