@@ -2,7 +2,7 @@
 
 <h1>About</h1>
 <p align='center'>
-  Kullanıcı deneyimini (UX) önde tutan, modern, şık ve güncel kullanıcı arayüzüne (UI) sahip web siteleri geliştirmekte olan bir Frontend Developer'ım. Güncel olarak projelerimde React ve Next.js gibi teknolojiler kullanmaktayım. Detaylara önem veren, temiz ve düzenli kod yazan, sürekli öğrenmeye açık bir yapıya sahibim.
+  Kullanıcı deneyimini <b>(UX)</b> önde tutan, modern, şık ve güncel kullanıcı arayüzüne (UI) sahip web siteleri geliştirmekte olan bir Frontend Developer'ım. Güncel olarak projelerimde React ve Next.js gibi teknolojiler kullanmaktayım. Detaylara önem veren, temiz ve düzenli kod yazan, sürekli öğrenmeye açık bir yapıya sahibim.
 </p>
 
 <h1>Tech</h1>
