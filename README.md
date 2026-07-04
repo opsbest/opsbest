@@ -23,4 +23,8 @@
 </p>
 
 <h1>Other</h1>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=opsbest&repo=Loka-Image-Lore-Editor&theme=tokyonight)](https://github.com/opsbest/Loka-Image-Lore-Editor)
+<p align="left">
+  <a href="https://github.com/opsbest/Loka-Image-Lore-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opsbest&repo=Loka-Image-Lore-Editor&theme=tokyonight" alt="Loka-Image-Lore-Editor" />
+  </a>
+</p>
