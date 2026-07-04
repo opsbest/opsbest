@@ -21,10 +21,3 @@
   <img src="https://img.shields.io/badge/bio-ops.skin-13d62b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/ma%C4%B1l-opsiletisim%40gmail.com-de471a?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge">
 </p>
-
-<h1>Other</h1>
-<p align="left">
-  <a href="https://github.com/opsbest/Loka-Image-Lore-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opsbest&repo=Loka-Image-Lore-Editor&theme=tokyonight" alt="Loka-Image-Lore-Editor" />
-  </a>
-</p>
