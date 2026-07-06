@@ -3,7 +3,7 @@
 
 <h1>About</h1>
 <p align='center'>
-Kullanıcı deneyimini <b>(UX)</b> önde tutan, modern, şık ve güncel kullanıcı arayüzüne <b>(UI)</b> sahip web siteleri geliştirmekte olan bir <b>Frontend Developer</b>'ım. Güncel olarak projelerimde <b>React</b> ve <b>Next.js</b> gibi teknolojiler kullanmaktayım. Detaylara önem veren, temiz ve düzenli kod yazan, sürekli öğrenmeye açık bir yapıya sahibim. 
+Kullanıcı deneyimini <b>(UX)</b> önde tutan, modern, şık ve güncel kullanıcı arayüzüne <b>(UI)</b> sahip web siteleri geliştirmekte olan bir <b>Frontend Developer</b>'ım. Güncel olarak projelerimde <b>React</b>, <b>Node.js</b> vb. teknolojiler kullanmaktayım. Detaylara önem veren, temiz ve düzenli kod yazan, sürekli öğrenmeye açık bir yapıya sahibim. 
 <br> 
 Birlikte çalışmak isterseniz, bana <b><a href="mailto:opsiletisim@gmail.com">mail</a></b> üzerinden ulaşabilirsiniz
 </p>
