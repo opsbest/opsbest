@@ -21,6 +21,6 @@ Birlikte çalışmak isterseniz, bana <b><a href="mailto:opsiletisim@gmail.com">
 
 <h1>Other</h1>
 <p align='center'>
-  <img src="https://img.shields.io/badge/bio-ops.skin-13d62b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Badge">
+  <img src="https://img.shields.io/badge/bio-cinar.skin-13d62b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/ma%C4%B1l-opsiletisim%40gmail.com-de471a?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge">
 </p>
